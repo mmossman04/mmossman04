@@ -1,12 +1,16 @@
-## Hi there 👋
+## Hi there my name is Morgan 👋
 
-My name is Morgan! 
+# Who is Morgan? # 
+
+This is me 
+
+
 
 I am in my *fourth year* of my neuroscience major at Dal 
 
 # Why NESC 3505? # 
 
-I've always liked learning about interpreting data in different ways and I've always been interested in learning more about python coding so when I found this course and it fit into my schedule it was perfect! 
+I've always liked learning about interpreting data in different ways and I've always been interested in learning more about python coding so when I found this course and it fit into my schedule it was **perfect**! 
 
 # Why neuroscience? #
 
