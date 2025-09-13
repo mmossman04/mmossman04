@@ -4,6 +4,9 @@
 
 This is me 
 
+[self image](/workspaces/mmossman04/IMG_1702.png)
+
+
 
 
 I am in my *fourth year* of my neuroscience major at Dal 
@@ -35,3 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: /workspaces/mmossman04/IMG_1702.png
