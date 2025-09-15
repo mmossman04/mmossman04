@@ -4,7 +4,7 @@
 
 This is me 
 
-[self image](/workspaces/mmossman04/IMG_1702.png)
+![self image](smallerpic.png) 
 
 
 
