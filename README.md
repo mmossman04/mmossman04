@@ -2,14 +2,12 @@
 
 # Who is Morgan? # 
 
-This is me 
+This is me 👇 
 
 ![self image](smallerpic.png) 
 
 
-
-
-I am in my *fourth year* of my neuroscience major at Dal 
+I am in my *fourth year* of my neuroscience major at Dal!
 
 # Why NESC 3505? # 
 
@@ -21,7 +19,7 @@ Coming out of highschool I was still a bit unsure of what I wanted to study but 
 
 # What's the post-grad plan? # 
 
-I'm still pretty unsure of what path to take after my bachelors but I'm currently looking into occupational therapy. There will definitely be some traveling in my future, even if it isn't immediately after graduation! 
+I'm still pretty unsure of what path to take after my bachelors but I'm currently looking into occupational therapy. There will definitely be some traveling in my future ✈️, even if it isn't immediately after graduation! 
 
 
 <!--
